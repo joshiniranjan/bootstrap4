@@ -127,7 +127,7 @@
 	color: #20c997 !important;
 }
 
-.form-control {
+.form-control , custom-select{
 	font-size:17px !important;
 }
 
